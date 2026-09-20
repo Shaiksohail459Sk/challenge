@@ -1,1 +1,2 @@
-# challenge
+# challenge 
+```root:root@picoctf```
